@@ -5,6 +5,9 @@ Implemented using PyTorch
 
 The original repo (Udacity) can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 
+The code is located in the Jupyter Notebook and the dataset can be found in the Udacity repo above
+
+
 ## Project Overview
 Given an image of a dog, the application will estimate the canine's breed. If a human image is supplied, the application will try to identify the resembling dog breed.
 
